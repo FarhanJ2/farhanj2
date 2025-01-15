@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Farhan Jamil
 #### Current Townsend Harris High School Student
-![Current Townsend Harris High School Student](https://media.licdn.com/dms/image/D4E16AQEXkBPnqwQBfA/profile-displaybackgroundimage-shrink_350_1400/0/1685126445243?e=1722470400&v=beta&t=fmXUwX1tZpFRioVSlrHm0uRbjV7RLX561snjor5GckQ)
+Current Townsend Harris High School Student
 
 ![Badge](https://img.shields.io/badge/Farhan_Jamil-16_years_old-pink)
 
@@ -16,5 +16,3 @@
 | Astro | React JS/Native | Heroku | Flask | Unity | Xcode | Android Studio 
 |-------|-----------------|--------|-------|-------|-------|----------------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="Astro" alt="Astro" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" title="xcode" alt="xcode" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="55" height="55"/>
-
-![GitHub metrics](https://metrics.lecoq.io/FarhanJ2)  
